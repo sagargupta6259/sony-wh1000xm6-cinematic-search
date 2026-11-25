@@ -1,0 +1,183 @@
+{
+  "document_name": "Sony_WH-1000XM6_Exploded_View_Architecture.pdf",
+  "document_ref": "SNY-XM6-EXPLODED-SPEC-2026",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page": 1,
+      "title": "Executive Product Overview & Visual Identity",
+      "subtitle": "Flagship Aesthetic & Exploded Mechanical Foundation",
+      "keywords": [
+        "overview",
+        "wh-1000xm6",
+        "flagship",
+        "exploded-view",
+        "visual identity",
+        "mechanical",
+        "special",
+        "components",
+        "inside",
+        "parts",
+        "architecture",
+        "headphone",
+        "headphones"
+      ],
+      "visual_frame": "/sequence/frame_000.jpg",
+      "raw_text": "SONY CORPORATION \u007f ACOUSTIC ENGINEERING SPECIFICATION Sony WH-1000XM6: Precision Architecture & Technical Whitepaper DOCUMENT REF: SNY-XM6-EXPLODED-SPEC-2026 \u007f REVISION 4.2 1. Executive Product Overview & Visual Identity The Sony WH-1000XM6 represents the zenith of contemporary personal acoustic engineering, synthesizing custom 40mm carbon-composite diaphragms, dual QN3 neural noise-cancelling processors, and advanced biomimetic ergonomics. This engineering specification details the internal component assembly, exploded-view structural mechanics, and digital signal pathways of the flagship headset. The accompanying multi-frame exploded-view visualization documents each sequential layer: from outer acoustic shells and gimbal rings down to the central neodymium voice coil, acoustic dampeners, and multi-microphone isolation baffles.",
+      "paragraphs": [
+        "SONY CORPORATION \u007f ACOUSTIC ENGINEERING SPECIFICATION",
+        "Sony WH-1000XM6: Precision Architecture &",
+        "Technical Whitepaper",
+        "DOCUMENT REF: SNY-XM6-EXPLODED-SPEC-2026 \u007f REVISION 4.2",
+        "1. Executive Product Overview & Visual Identity",
+        "The Sony WH-1000XM6 represents the zenith of contemporary personal acoustic engineering, synthesizing custom",
+        "40mm carbon-composite diaphragms, dual QN3 neural noise-cancelling processors, and advanced biomimetic",
+        "ergonomics. This engineering specification details the internal component assembly, exploded-view structural",
+        "mechanics, and digital signal pathways of the flagship headset.",
+        "The accompanying multi-frame exploded-view visualization documents each sequential layer: from outer acoustic",
+        "shells and gimbal rings down to the central neodymium voice coil, acoustic dampeners, and multi-microphone",
+        "isolation baffles."
+      ]
+    },
+    {
+      "page": 2,
+      "title": "Acoustic Transducer & 40mm Carbon Driver Assembly",
+      "subtitle": "Custom Carbon-Composite Diaphragm & Airflow Porting",
+      "keywords": [
+        "driver",
+        "transducer",
+        "carbon",
+        "diaphragm",
+        "40mm",
+        "impedance",
+        "4hz",
+        "40000hz",
+        "acoustic",
+        "porting",
+        "bass",
+        "clarity"
+      ],
+      "visual_frame": "/sequence/frame_030.jpg",
+      "raw_text": "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 2 2. Acoustic Transducer & 40mm Carbon Driver Assembly Transducer Architecture & Airflow Porting At the core of the WH-1000XM6 acoustic chamber is an all-new 40mm Carbon-Composite Dome Driver with soft polyurethane perimeter. Unlike standard synthetic diaphragms, the rigid carbon matrix eliminates modal break-up across the audible spectrum, achieving high mechanical stiffness with low moving mass. \u007f Frequency Response (Active Processing): 4 Hz \u2013 40,000 Hz (JEITA Hi-Res certified). \u007f Voice Coil: High-purity Oxygen-Free Copper (OFC) with dual-flux N52 Neodymium motor structure. \u007f Acoustic Porting: Dual helical back-volume vents relieve backpressure for rapid transient decay and punchy sub-bass reproduction.",
+      "paragraphs": [
+        "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 2",
+        "2. Acoustic Transducer & 40mm Carbon Driver",
+        "Assembly",
+        "Transducer Architecture & Airflow Porting",
+        "At the core of the WH-1000XM6 acoustic chamber is an all-new 40mm Carbon-Composite Dome Driver with soft",
+        "polyurethane perimeter. Unlike standard synthetic diaphragms, the rigid carbon matrix eliminates modal break-up",
+        "across the audible spectrum, achieving high mechanical stiffness with low moving mass.",
+        "\u007f Frequency Response (Active Processing): 4 Hz \u2013 40,000 Hz (JEITA Hi-Res certified).",
+        "\u007f Voice Coil: High-purity Oxygen-Free Copper (OFC) with dual-flux N52 Neodymium motor structure.",
+        "\u007f Acoustic Porting: Dual helical back-volume vents relieve backpressure for rapid transient decay and punchy",
+        "sub-bass reproduction."
+      ]
+    },
+    {
+      "page": 3,
+      "title": "Dual QN3 HD Active Noise Cancelling Processors & 8-Mic Array",
+      "subtitle": "Sub-millisecond Anti-Phase Noise Neutralization",
+      "keywords": [
+        "noise cancelling",
+        "anc",
+        "qn3",
+        "processor",
+        "microphone",
+        "mems",
+        "beamforming",
+        "decibel",
+        "-38.6 db",
+        "attenuation",
+        "isolation",
+        "system"
+      ],
+      "visual_frame": "/sequence/frame_060.jpg",
+      "raw_text": "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 3 3. Dual QN3 HD Active Noise Cancelling Processors & 8-Mic Array Intelligent Active Noise Neutralization Architecture Environmental noise attenuation in the WH-1000XM6 is orchestrated by Dual dedicated Sony QN3 HD Noise Cancelling Processors coupled with eight precision beamforming MEMS microphones (four situated in each ear cup). Operating at a continuous sampling frequency of 700kHz, the dual silicon engines generate inverted anti-phase cancellation waves within sub-0.4ms latency. \u007f Peak Noise Reduction: Up to -38.6 dB of active suppression across mid and low frequencies. \u007f Microphone Array: 8 beamforming microphones paired with an onboard bone-conduction sensor. \u007f Adaptive Atmospheric Optimization: Integrated barometric pressure sensors recalibrate ANC profiles during high-altitude commercial flights.",
+      "paragraphs": [
+        "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 3",
+        "3. Dual QN3 HD Active Noise Cancelling",
+        "Processors & 8-Mic Array",
+        "Intelligent Active Noise Neutralization Architecture",
+        "Environmental noise attenuation in the WH-1000XM6 is orchestrated by Dual dedicated Sony QN3 HD Noise",
+        "Cancelling Processors coupled with eight precision beamforming MEMS microphones (four situated in each ear cup).",
+        "Operating at a continuous sampling frequency of 700kHz, the dual silicon engines generate inverted anti-phase",
+        "cancellation waves within sub-0.4ms latency.",
+        "\u007f Peak Noise Reduction: Up to -38.6 dB of active suppression across mid and low frequencies.",
+        "\u007f Microphone Array: 8 beamforming microphones paired with an onboard bone-conduction sensor.",
+        "\u007f Adaptive Atmospheric Optimization: Integrated barometric pressure sensors recalibrate ANC profiles during",
+        "high-altitude commercial flights."
+      ]
+    },
+    {
+      "page": 4,
+      "title": "DSEE Ultimate 2.0 AI Audio Upscaling & LDAC Lossless Transmission",
+      "subtitle": "Neural Audio Restoration & 990kbps Hi-Res Streaming",
+      "keywords": [
+        "dsee",
+        "upscaling",
+        "ldac",
+        "codec",
+        "ai",
+        "neural",
+        "360 reality audio",
+        "spatial",
+        "lossless",
+        "bluetooth",
+        "990kbps",
+        "hi-res",
+        "sound"
+      ],
+      "visual_frame": "/sequence/frame_100.jpg",
+      "raw_text": "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 4 4. DSEE Ultimate 2.0 AI Audio Upscaling & LDAC Lossless Transmission Audiophile Digital Signal Processing Engine To overcome digital audio compression artifacts, the WH-1000XM6 incorporates DSEE Ultimate 2.0 (Digital Sound Enhancement Engine). Utilizing real-time Edge-AI neural models trained on over 10 million master studio recording stems, the algorithm dynamically identifies musical instrumentation and vocal timbre to reconstruct high-frequency harmonics lost during lossy streaming (such as Spotify 320kbps and AAC). \u007f Wireless Codec: Sony LDAC\u2122 protocol transmitting up to 990 kbps at 96kHz / 32-bit resolution. \u007f 360 Reality Audio: Object-based spatial acoustic positioning with personalized HRTF ear geometry measurement. \u007f Lossless Wired USB Audio: USB-C digital audio input bypasses analog degradation, driving internal 32-bit DAC directly.",
+      "paragraphs": [
+        "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 4",
+        "4. DSEE Ultimate 2.0 AI Audio Upscaling & LDAC",
+        "Lossless Transmission",
+        "Audiophile Digital Signal Processing Engine",
+        "To overcome digital audio compression artifacts, the WH-1000XM6 incorporates DSEE Ultimate 2.0 (Digital Sound",
+        "Enhancement Engine). Utilizing real-time Edge-AI neural models trained on over 10 million master studio recording",
+        "stems, the algorithm dynamically identifies musical instrumentation and vocal timbre to reconstruct high-frequency",
+        "harmonics lost during lossy streaming (such as Spotify 320kbps and AAC).",
+        "\u007f Wireless Codec: Sony LDAC\u2122 protocol transmitting up to 990 kbps at 96kHz / 32-bit resolution.",
+        "\u007f 360 Reality Audio: Object-based spatial acoustic positioning with personalized HRTF ear geometry measurement.",
+        "\u007f Lossless Wired USB Audio: USB-C digital audio input bypasses analog degradation, driving internal 32-bit DAC",
+        "directly."
+      ]
+    },
+    {
+      "page": 5,
+      "title": "Power Architecture, Fast Charging & Structural Ergonomics",
+      "subtitle": "42-Hour Endurance, 3-Minute Quick Charge & Stepless Comfort",
+      "keywords": [
+        "battery",
+        "charge",
+        "hours",
+        "42 hours",
+        "fast charge",
+        "usb-c",
+        "weight",
+        "246g",
+        "comfort",
+        "headband",
+        "leather",
+        "bluetooth 5.4",
+        "power"
+      ],
+      "visual_frame": "/sequence/frame_119.jpg",
+      "raw_text": "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 5 5. Power Architecture, Fast Charging & Structural Ergonomics Battery Performance, Fast Charging & All-Day Comfort The WH-1000XM6 is engineered with an optimized high-energy lithium-ion battery system delivering up to 42 hours of continuous playback with ANC activated, and up to 55 hours with ANC switched off. With USB Power Delivery (USB-PD) fast charging, a 3-minute charge provides up to 5.0 hours of listening time. \u007f Headset Total Weight: 246 grams (8.67 oz). \u007f Bluetooth Specification: Bluetooth 5.4 with LE Audio, Auracast broadcasting, and simultaneous 3-device multipoint. \u007f Ergonomic Construction: Zero-pressure stepless friction slider, memory foam ear cushions sheathed in thermo-regulating vegan protein leather.",
+      "paragraphs": [
+        "SONY CORPORATION \u007f WH-1000XM6 TECHNICAL SPECIFICATION \u007f PAGE 5",
+        "5. Power Architecture, Fast Charging & Structural",
+        "Ergonomics",
+        "Battery Performance, Fast Charging & All-Day Comfort",
+        "The WH-1000XM6 is engineered with an optimized high-energy lithium-ion battery system delivering up to 42 hours of",
+        "continuous playback with ANC activated, and up to 55 hours with ANC switched off. With USB Power Delivery",
+        "(USB-PD) fast charging, a 3-minute charge provides up to 5.0 hours of listening time.",
+        "\u007f Headset Total Weight: 246 grams (8.67 oz).",
+        "\u007f Bluetooth Specification: Bluetooth 5.4 with LE Audio, Auracast broadcasting, and simultaneous 3-device multipoint.",
+        "\u007f Ergonomic Construction: Zero-pressure stepless friction slider, memory foam ear cushions sheathed in",
+        "thermo-regulating vegan protein leather."
+      ]
+    }
+  ]
+}
